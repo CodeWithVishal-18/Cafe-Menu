@@ -1,7 +1,6 @@
 ## ☕ Chai & Chill
 Cafe Menu Website
 
-
 A stylish static cafe menu webpage built using HTML & CSS, designed to showcase clean layouts, typography, and visual styling — ideal for frontend practice and portfolio display.
 
 ## ✨ Highlights
@@ -11,8 +10,6 @@ A stylish static cafe menu webpage built using HTML & CSS, designed to showcase 
 🎨 Custom styling with Google Fonts
 
 🖼️ Image-based background design
-
-📐 Clean and centered UI
 
 ## 🛠️ Tech Stack
 
